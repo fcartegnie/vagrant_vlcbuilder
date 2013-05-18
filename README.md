@@ -7,7 +7,7 @@ Usage
 Creates Win32 build environment on 64 bits Debian.
 Uses puppet for provisioning.
 
-    git clone --recursive https://github.com/fcartegnie/vagrant\_vlcbuilder.git
+    git clone --recursive https://github.com/fcartegnie/vagrant_vlcbuilder.git
 
 Change to that directory and make your changes to Vagrantfile.
 
